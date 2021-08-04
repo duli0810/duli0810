@@ -18,8 +18,8 @@
   ### 🤝 Galera! Veja abaixo como ajuda outros profissionais a adquirir e compartilhar conhecimento!!!! 
 
 <ul>
-  <li>🌎 Me adiciona nas Redes Sociais
-  <li>✍ Inscrevendo-se meu Canal do YouTube
+  <li>🌎 Adicione-me nas Redes Sociais
+  <li>✍ Inscreva-se meu Canal do YouTube
 </ul>
 
   ##
