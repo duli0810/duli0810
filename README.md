@@ -25,7 +25,7 @@
   ##
   
 <ul align="center"> 
-  <p><b>Minhas Redes Socias</b>.</p>
+  <p><b>Siga-me nas Redes Socias:</b>.</p>
 
   <p>👇👇👇</p>
 </ul>  
