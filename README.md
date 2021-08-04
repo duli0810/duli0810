@@ -15,7 +15,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duli0810&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
-  ### 🤝 Galera, Veja abaixo como ajuda outros profissionais a adquirir e compartilhar conhecimento!!!! 
+  ### 🤝 Galera! Veja abaixo como ajuda outros profissionais a adquirir e compartilhar conhecimento!!!! 
 
 <ul>
   <li>🌎 Me adiciona nas Redes Sociais
