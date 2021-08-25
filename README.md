@@ -33,7 +33,7 @@
  ##
 <div align="center"> 
   <a href = "https://acesso8.blogspot.com/"><img src="https://i.imgur.com/T01dNPP.png" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCh6CzOE6aWxy_5RYG4To88g" target="_blank"><img src="https://i.imgur.com/Hp8VxZO.png" target="_blank"></a>
+  <a href="http://www.youtube.com/channel/UCh6CzOE6aWxy_5RYG4To88g?sub_confirmation=1" target="_blank"><img src="https://i.imgur.com/Hp8VxZO.png" target="_blank"></a>
   <a href="https://twitter.com/8Acesso" target="_blank"><img src="https://i.imgur.com/NQZ8fjf.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-rodrigues-da-silva-78895a25/" target="_blank"><img src="https://i.imgur.com/FRMLFvm.png" target="_blank"></a>
 </div>
