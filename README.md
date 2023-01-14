@@ -1,3 +1,8 @@
+[![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=Github&logoColor=white&link=https://github.com/duli0810)](https://github.com/duli0810)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-da-silva-78895a25/)](https://www.linkedin.com/in/eduardo-rodrigues-da-silva-78895a25/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=http://www.youtube.com/channel/UCh6CzOE6aWxy_5RYG4To88g?sub_confirmation=1)](http://www.youtube.com/channel/UCh6CzOE6aWxy_5RYG4To88g?sub_confirmation=1)
+[![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://acesso8.blogspot.com/)](https://acesso8.blogspot.com/)
+
 ### Opa Galera, Sou o Eduardo !!!! 🤙
 
 <ul>
